@@ -3,8 +3,8 @@ import Image from 'next/image';
 
 const page = () => {
   return (
-    <div>Home Page
-      
+    <div>About Page 
+        
     </div>
   )
 }
