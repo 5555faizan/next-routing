@@ -10,9 +10,9 @@ const page = () => {
   <div className="pt-6 md:p-8 text-center md:text-left space-y-4">
     <blockquote>
       <p className="text-lg font-medium">
-      Faizan Nawaz, a dedicated social media marketer, is excited to enhance his skills by joining a cutting-edge generative AI
-      course conducted by Abel Sir Asife. With a strong foundation in digital marketing, Faizan aims to leverage the power
-      of AI to create innovative content and strategies that drive engagement and growth across social media platforms. 
+      I am a dedicated social media marketer, is excited to enhance his skills by joining a cutting-edge generative AI
+      course conducted by Sir Asif. With a strong foundation in digital marketing, Faizan aims to leverage the power
+      of Gernative AI to create innovative content and strategies that drive engagement and growth across social media platforms. 
       This course represents a pivotal step in his journey to stay at the forefront of technological advancements, ensuring 
       that his marketing campaigns are not only effective but also ahead of the curve.  
       </p>
