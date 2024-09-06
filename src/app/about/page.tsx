@@ -1,9 +1,11 @@
 import React from 'react'
 import Image from 'next/image';
+import Link from 'next/link';
 
 const page = () => {
   return (
-    <div>About Page 
+    <div>
+       <Link href="/">Go To home Page</Link>
         
 <figure className="md:flex bg-slate-100 rounded-xl p-8 md:p-0 dark:bg-slate-800">
   <img className="w-24 h-24 md:w-48 md:h-auto md:rounded-none rounded-full mx-auto" src="/faizan ai.jfif" alt="" width="384" height="512"/>
