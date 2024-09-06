@@ -4,7 +4,15 @@ import Link from 'next/link';
 
 const page = () => {
   return (
-    <div>
+    <div>About Page
+       <br />
+       <br />
+       <Link href="/adress">Go To adress Page</Link>
+       <br />
+       <br />
+       <Link href="/contact">Go To contact us Page</Link>
+       <br />
+      <br />
        <Link href="/">Go To home Page</Link>
         
 <figure className="md:flex bg-slate-100 rounded-xl p-8 md:p-0 dark:bg-slate-800">
