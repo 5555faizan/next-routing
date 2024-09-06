@@ -4,7 +4,17 @@ import Link from 'next/link'
 const page = () => {
   return (
     <div>
-    <div><Link href="/">Go To home Page</Link> 
+    <div> Contact Us page
+      <br />
+      <br />
+       <Link href="/">Go To home Page</Link>  
+       <br />
+       <br />
+       <Link href="/about">Go To about Page</Link>
+       <br />
+       <br />
+       <Link href="/adress">Go To adress Page</Link>
+       
         
 <figure className="md:flex bg-slate-100 rounded-xl p-8 md:p-0 dark:bg-slate-800">
   <img className="w-24 h-24 md:w-48 md:h-auto md:rounded-none rounded-full mx-auto" src="/faizan ai.jfif" alt="" width="384" height="512"/>
